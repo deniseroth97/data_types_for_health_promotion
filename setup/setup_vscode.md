@@ -30,7 +30,7 @@ For this, you'll need to open
 In the Anaconda Prompt/Terminal, execute the following lines (by copy-pasting them there and pressing Enter):
 
 ```bash
-conda create -n data_types_for_health_promotion -y python=3.12 pip
+conda create -n data_types_for_health_promotion -y python=3.11 pip
 conda activate data_types_for_health_promotion
 conda install notebook
 pip install -r https://raw.githubusercontent.com/deniseroth97/data_types_for_health_promotion/main/abm/setup/requirements.txt

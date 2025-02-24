@@ -40,9 +40,9 @@ pip install -r https://raw.githubusercontent.com/deniseroth97/data_types_for_hea
 
 When running some python script or a cell in a Jupyter notebook in VS Code, you will be prompted to select the python interpreter.
 
-<img src="./imgs/vscode_python_environments_popup.png" alt="Pop-up in VS Code for selecting a python interpreter" style="width:400px;"/>
 
-In our case, we will always select the `advanced_text_analysis_gesis` environment
+
+In our case, we will select the `data_types_for_health_promotion` environment.
 
 
 **_Alternatives_** 

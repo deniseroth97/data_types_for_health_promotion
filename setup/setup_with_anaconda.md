@@ -84,7 +84,7 @@ To create a new conda environment, run the following lines:
 **_Note:_** If you are a Mac user and your MacBook has an M1, M2, or M3 chip, put `CONDA_SUBDIR=osx-arm64` in front of `conda create` when running the code below
 
 ```shell
-conda create --name data_types_for_health_promotion python=3.12 pip
+conda create --name data_types_for_health_promotion python=3.11 pip
 
 conda activate data_types_for_health_promotion
 ```

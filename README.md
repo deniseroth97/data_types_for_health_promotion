@@ -3,7 +3,7 @@ This repository includes materials for the course HSO32303 offered in Period 4 (
 
 To set up both both Visual Studio Code and managing virtual environments (which you need to install required packages), please follow the tutorials below:
 
-1. [Settung up VS Code]([https://github.com/ccs-amsterdam](https://github.com/deniseroth97/data_types_for_health_promotion/blob/main/setup/setup_vscode.md)
+1. [Settung up VS Code](https://github.com/deniseroth97/data_types_for_health_promotion/blob/main/setup/setup_vscode.md)
 2. [Setting up Python using Anaconda](https://github.com/deniseroth97/data_types_for_health_promotion/blob/main/setup/setup_with_anaconda.md)
 
 

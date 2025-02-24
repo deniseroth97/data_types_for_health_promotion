@@ -103,7 +103,7 @@ In the Anaconda Prompt (Windows)/Terminal (macOS),
 conda install -y notebook ipywidgets
 
 # install all required packages in the correct versions
-pip install -r https://raw.githubusercontent.com/deniseroth97/data_types_for_health_promotion/main/setup/requirements.txt
+pip install -r https://raw.githubusercontent.com/deniseroth97/data_types_for_health_promotion/main/abm/setup/requirements.txt
 ```
 
 ## Errors and issues
